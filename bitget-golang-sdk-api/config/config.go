@@ -1,6 +1,6 @@
 package config
 
-import "github.com/0xachong/v3-bitget-api-sdk/constants"
+import "github.com/0xachong/v3-bitget-api-sdk/bitget-golang-sdk-api/constants"
 
 const (
 	BaseUrl = "https://api.bitget.com"
