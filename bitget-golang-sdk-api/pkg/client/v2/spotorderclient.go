@@ -1,8 +1,8 @@
 package v2
 
 import (
-	"bitget/internal"
-	"bitget/internal/common"
+	"github.com/0xachong/v3-bitget-api-sdk/internal"
+	"github.com/0xachong/v3-bitget-api-sdk/internal/common"
 )
 
 type SpotOrderClient struct {

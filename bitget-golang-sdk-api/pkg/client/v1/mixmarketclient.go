@@ -1,7 +1,7 @@
 package v1
 
 import (
-	"bitget/internal/common"
+	"github.com/0xachong/v3-bitget-api-sdk/internal/common"
 )
 
 type MixMarketClient struct {
